@@ -15,6 +15,6 @@ public class ejemplocontroller {
 	
 	public String get(){
 		
-		return "el malote";
+		return "el maloteee";
 	}
 }
