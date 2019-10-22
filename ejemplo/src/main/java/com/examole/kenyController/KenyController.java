@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class KenyController {
 	@GetMapping("/keny")
 	public String readAll() {
-		return "ELLA NO TE AMA jaja";
+		return "ELLA NO TE AMA jaja x1000";
 	}
 }
