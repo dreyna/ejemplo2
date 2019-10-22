@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class nickController {
 	@GetMapping("/")
 	public String nick() {
-		return "hola";
+		return "{usuario:nick, password:holamundo}, {usuario:atencio, password:carrizo}";
 	}
 }
