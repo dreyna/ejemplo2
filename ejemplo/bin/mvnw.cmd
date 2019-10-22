@@ -322,4 +322,8 @@ if "%MAVEN_BATCH_PAUSE%" == "on" pause
 if "%MAVEN_TERMINATE_CMD%" == "on" exit %ERROR_CODE%
 
 exit /B %ERROR_CODE%
+<<<<<<< HEAD
+>>>>>>> e1d84c6afde31e1ed9293fee3cf44442397de9df
+=======
 >>>>>>> branch 'master' of https://github.com/dreyna/ejemplo2.git
+>>>>>>> b9fd342046db3f8b300f0e174423beabb54fabe2
